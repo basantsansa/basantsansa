@@ -52,3 +52,18 @@ To test your implementation, measurement data is provided. The first line of the
 file defines the number of rows N and columns M in the scan, separated by a
 single space. After this, there are N rows of M integer values separated by a
 single space.
+
+**Source code files**: node.h depthScanner.h depthScanner.cpp
+**Test input data files**: in2x2.txt, in3x3.txt, in4x4.txt, in5x5.txt, in50x50.txt
+
+**Compilation**: 
+Using a small script 'gccp' with below content.
+#/bin/sh
+echo compiling C++ using -ansi -std=c++11 -pedantic-errors -Wall
+g++ -ansi -std=c++11 -pedantic-errors -Wall $1 $2 $3
+
+So shell command executed: gccp node.h depthScanner.h depthScanner.cpp
+
+**Execution**:
+example command with input data file passed on command-line :
+./a.out in50x50.txt
