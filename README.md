@@ -1,6 +1,6 @@
 - 👋 Hi, I’m basanta
-- 👀 I’m interested in c++ and embedded, 5G, IoT
-- 🌱 I’m currently learning c++ and data structures
+- 👀 I’m interested in linux, c++, embedded development, 5G, IoT
+- 🌱 I’m currently learning c++ and data structures, algorithms. Here I'll be posting some of my solutions in C++.
 - 💞️ I’m looking to collaborate on open source projects on c++, linux
 - 📫 How to reach me: Mail at basanta229@gmail.com, Message at https://www.linkedin.com/in/bbasanta/
 
